@@ -8,6 +8,6 @@ Simple paid onchain GM contract deployed on Base mainnet.
 - Fees withdrawable by owner
 
 ## Contract
-https://basescan.org/address/ТУТ_АДРЕС_ТВОЕГО_КОНТРАКТА
+https://basescan.org/address/0xbd1bF896B315D8D93D7e0D753507B96ad8fCfA02
 
 Built for Talent Top Base Builders campaign.
